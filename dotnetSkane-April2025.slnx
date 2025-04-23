@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MyApi/MyApi.csproj" />
+    <Project Path="src/MyPackage/MyPackage.csproj" Id="0a7cc866-c3b9-499d-aa7f-f08b02cd9804" />
+  </Folder>
+</Solution>
